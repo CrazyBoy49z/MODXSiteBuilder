@@ -1,4 +1,5 @@
-<h1><strong>MODXSiteBuilder:</strong> <br>Билдер для веб разработки на CMF MODX Revolution.</h1>
+<h1>MODXSiteBuilder:</h1>
+<h5>Билдер для веб разработки на CMF MODX Revolution.</h5>
 <p>Автор билда: iWatchYouFromAfar <a href="https://urbancreations.ru/" target="_blank">Urban Creations</a><br/>
 
 <h2>Описание:</h2>
