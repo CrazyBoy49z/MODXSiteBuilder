@@ -6,8 +6,13 @@
  * 01.10.2018 - 04.10.2018
  * 
  * Скрипт автоматического копирайта на сайт
- * Use MODX: [[++site_name]] | [[copyright? &start=`2018`]]
- * Use Fenom: {$_modx->config.site_name | htmlent} | {'copyright' | snippet : ['start' => '2018']}
+ * 
+ * Use MODX:
+ * [[++site_name]] | [[copyright? &start=`2018`]]
+ * 
+ * Use Fenom:
+ * {$_modx->config.site_name | htmlent} | {'copyright' | snippet : ['start' => '2018']}
+ * {$_modx->config.site_name | htmlent} | {$_modx->runSnippet('copyright', ['start' => '2018'])}
  * 
  */
 
