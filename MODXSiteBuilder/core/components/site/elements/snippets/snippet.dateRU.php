@@ -6,8 +6,11 @@
  * 01.10.2018 - 04.10.2018
  * 
  * Скрипт перевода месяцев и дней с английского на русский для постов
- * Use MODX: [[*publishedon:dateRU=`%month`]] / [[*editedon:dateRU=`%month`]]
- * Use Fenom: {$_modx->resource.publishedon|dateRU:'%month'} / {$_modx->resource.editedon|dateRU:'%month'}
+ * Use MODX: 
+ * [[*publishedon:dateRU=`%month`]] / [[*editedon:dateRU=`%month`]]
+ *
+ * Use Fenom: 
+ * {$_modx->resource.publishedon|dateRU:'%month'} / {$_modx->resource.editedon|dateRU:'%month'}
  * 
  */
 
