@@ -85,7 +85,7 @@
 	<li><strong>hidemenu_default</strong>: Скрыть документ из меню по умолчанию - <strong>Да</strong></li>
 	<li><strong>publish_default</strong>: Публиковать по умолчанию - <strong>Нет</strong></li>
 	<li><strong>use_alias_path</strong>: Использовать вложенные URL - <strong>Да</strong></li>
-	<li><strong>friendly_alias_restrict_chars_pattern</strong>: Шаблон для фильтрации символов в псевдонимах - <strong><a href="https://github.com/ilyautkin/siteExtra/blob/master/core/components/site/docs/friendly_alias_restrict_chars_pattern.txt" target="_blank">Используется регулярное выражение от Ильи Уткина</a></strong></li>
+	<li><strong>friendly_alias_restrict_chars_pattern</strong>: Шаблон для фильтрации символов в псевдонимах - <strong><a href="https://github.com/ilyautkin/siteExtra/blob/master/core/components/site/docs/friendly_alias_restrict_chars_pattern.txt" target="_blank">Используется немного измененное регулярное выражение от Ильи Уткина</a></strong></li>
 	<li><strong>container_suffix</strong>: Убираем суффик псевдонима контейнеров</li>
 	<li><strong>friendly_alias_translit</strong>: Транслитерация псевдонимов - <strong>russian</strong></li>
 	<li><strong>resource_tree_node_name</strong>: Поле для названия узла в дереве ресурсов - <strong>menutitle</strong></li>
